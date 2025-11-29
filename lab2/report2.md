@@ -1,3 +1,13 @@
+University: ITMO University
+Faculty: FTMI
+Course: Облачные платформы как основа тхнологического предпринимательства
+Year: 2025/2026
+Group: U4225
+Author: Pochuev Danil Valerevich
+Lab: Lab2
+Date of create: 28/11/2025
+Date of finished: 29/11/2025
+
 # Лабораторная работа №2: "Работа с Cloud Run"
 
 ## Выполненные действия

@@ -1,3 +1,13 @@
+University: ITMO University
+Faculty: FTMI
+Course: Облачные платформы как основа тхнологического предпринимательства
+Year: 2025/2026
+Group: U4225
+Author: Pochuev Danil Valerevich
+Lab: Lab3
+Date of create: 28/11/2025
+Date of finished: 30/11/2025
+
 # Лабораторная работа №3: "Работа с облачным хранилищем данных"
 
 ## Выполненные действия
